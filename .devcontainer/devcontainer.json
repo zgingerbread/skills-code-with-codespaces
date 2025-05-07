@@ -11,7 +11,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "GitHub.copilot"
+        "GitHub.copilot", "evilcat.norminate-42"
       ]
     },
     "codespaces": {
